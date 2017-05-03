@@ -2,7 +2,7 @@
 
 First off all, thank you for taking the time to contribute!
 
-The following is a set of guidelines for contributing to Atom and its packages, which are hosted in the [Athom Organization](https://github.com/athombv) on GitHub. These are just guidelines, not rules. Use your best judgment, and feel free to contact us if you have any questions.
+The following is a set of guidelines for contributing to Athom and its packages, which are hosted in the [Athom Organization](https://github.com/athombv) on GitHub. These are just guidelines, not rules. Use your best judgment, and feel free to contact us if you have any questions.
 
 Please join our [community slack](https://slack.athom.com), if you have not done so already.
 We also have a [forum](https://forum.athom.com) for general discussions.
