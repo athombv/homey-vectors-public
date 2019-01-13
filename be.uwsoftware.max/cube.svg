@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="933px" height="982px" viewBox="0 0 933 982" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 79</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="cube" transform="translate(-34.000000, -10.000000)">
+            <g id="Group-79" transform="translate(41.000000, 17.000000)">
+                <polygon id="Stroke-67" stroke="#000000" stroke-width="14" stroke-linejoin="round" points="0 164.115309 0 662.938157 365.288729 968 919 718.260644 919 184.008848 507.74246 0"></polygon>
+                <polyline id="Stroke-69" stroke="#000000" stroke-width="7" points="919 184 365 391.115918 365 967"></polyline>
+                <path d="M0,164 L365,391" id="Stroke-71" stroke="#000000" stroke-width="7"></path>
+                <polygon id="Fill-73" fill="#000000" points="202 150.398837 175.203466 160 148 141.708652 174.003014 133"></polygon>
+                <polygon id="Fill-75" fill="#000000" points="133.097325 146 161 164.289269 133.179786 174 104 155.499078"></polygon>
+                <polygon id="Fill-77" fill="#000000" points="115 180.750994 115 180.761113 88.8737293 190 58 171.199422 85.8138042 162"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

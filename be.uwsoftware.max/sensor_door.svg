@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="364px" height="981px" viewBox="0 0 364 981" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="sensor_door" transform="translate(-336.000000, -10.000000)" stroke="#000000">
+            <g id="Group-3" transform="translate(343.000000, 17.000000)">
+                <path d="M157.398,966.179 L13.985,966.179 C6.261,966.179 0,959.917 0,952.194 L0,13.986 C0,6.262 6.261,0 13.985,0 L157.398,0 C165.123,0 171.384,6.262 171.384,13.986 L171.384,952.194 C171.384,959.917 165.123,966.179 157.398,966.179 Z" id="Stroke-19" stroke-width="14" stroke-linejoin="round"></path>
+                <path d="M334.67,725.696 L265.588,725.696 C257.531,725.696 251,719.165 251,711.108 L251,292.588 C251,284.531 257.531,278 265.588,278 L334.67,278 C342.727,278 349.258,284.531 349.258,292.588 L349.258,711.108 C349.258,719.165 342.727,725.696 334.67,725.696 Z" id="Stroke-21" stroke-width="14" stroke-linejoin="round"></path>
+                <polygon id="Stroke-23" stroke-width="7" points="58 895.3 114.3 895.3 114.3 839 58 839"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
