@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="960px" height="960px" viewBox="0 0 960 960" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>com.hiome/sensor</title>
+    <desc>Created with Sketch.</desc>
+    <g id="com.hiome/sensor" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M200,311 C118.814142,311 53,376.814142 53,458 L53,609 C53,630.539105 70.4608948,648 92,648 L868,648 C889.539105,648 907,630.539105 907,609 L907,458 C907,376.814142 841.185858,311 760,311 L200,311 Z" id="Rectangle" stroke="#000000" stroke-width="40"></path>
+        <rect id="Rectangle" stroke="#000000" stroke-width="20" stroke-linejoin="round" x="102" y="320" width="756" height="193" rx="96.5"></rect>
+    </g>
+</svg>
