@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="960px" height="960px" viewBox="0 0 960 960" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>com.sonoff/driver/s31-lite-zb/assets/icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="com.sonoff/driver/s31-lite-zb/assets/icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M909,225 C936.061953,225 958,246.938047 958,274 L958,274 L958,712 C958,739.061953 936.061953,761 909,761 L909,761 L51,761 C23.9380473,761 2,739.061953 2,712 L2,712 L2,274 C2,246.938047 23.9380473,225 51,225 L51,225 Z M860,322 L104,322 C70.1007621,322 42.5558152,349.205954 42.0083062,382.974717 L42,384 L42,712 C42,716.970563 46.0294373,721 51,721 L51,721 L860,721 L860,322 Z M918,322 L880,322 L880,721 L909,721 C913.881803,721 917.855791,717.113186 917.996163,712.265362 L918,712 L918,322 Z M860,265 L51,265 C46.0294373,265 42,269.029437 42,274 L42,274 L41.9997014,330.332727 C56.7601886,313.295264 78.4259878,302.403643 102.64398,302.010986 L104,302 L860,302 L860,265 Z M909,265 L880,265 L880,302 L918,302 L918,274 C918,269.118197 914.113186,265.144209 909.265362,265.003837 L909,265 Z" id="Combined-Shape" fill="#000000" fill-rule="nonzero"></path>
+        <rect id="Rectangle" fill="#000000" x="347" y="355" width="26" height="118"></rect>
+        <rect id="Rectangle" fill="#000000" x="493" y="355" width="26" height="118"></rect>
+        <path d="M431,525 C453.643675,525 472,543.356325 472,566 L472,617 L472,617 L390,617 L390,566 C390,543.356325 408.356325,525 431,525 Z" id="Rectangle" fill="#000000"></path>
+    </g>
+</svg>
