@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="960px" height="960px" viewBox="0 0 960 960" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>se.cohen.renaultze/capabilities/range</title>
+    <g id="se.cohen.renaultze/capabilities/range" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M695.584,54 L695.584,907 L266.584,907 L266.584,54 L695.584,54 Z M236.583994,54.399703 L236.583994,906.600297 C211.446113,903.444978 192,881.99343 192,856 L192,105 C192,79.0065697 211.446113,57.5550224 236.583994,54.399703 Z M769,105 L769,856 C769,881.589112 750.154137,902.776536 725.584856,906.439829 L725.584856,54.560171 C750.154137,58.2234639 769,79.4108884 769,105 Z M502,647.166667 L460,647.166667 L460,821.166667 L502,821.166667 L502,647.166667 Z M502,394.833333 L460,394.833333 L460,568.833333 L502,568.833333 L502,394.833333 Z M502,140.5 L460,140.5 L460,314.5 L502,314.5 L502,140.5 Z" id="Combined-Shape" fill="#000000"></path>
+    </g>
+</svg>
