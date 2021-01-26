@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="960px" height="960px" viewBox="0 0 960 960" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Shelly motion sensor</title>
+    <g id="Shelly-motion-sensor" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M487,8 C332.36027,8 207,133.36027 207,288 L207,672 C207,826.63973 332.36027,952 487,952 C641.63973,952 767,826.63973 767,672 L767,288 C767,133.36027 641.63973,8 487,8 Z M487,48 C619.54834,48 727,155.45166 727,288 L727,672 C727,804.54834 619.54834,912 487,912 C354.45166,912 247,804.54834 247,672 L247,288 C247,155.45166 354.45166,48 487,48 Z" id="Rectangle" fill="#000000" fill-rule="nonzero"></path>
+        <circle id="Oval" fill="#000000" cx="487" cy="651" r="155"></circle>
+    </g>
+</svg>
