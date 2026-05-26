@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <title>knx_failure_230v</title>
+ <g fill="#000" fill-rule="evenodd">
+  <path d="M28 2 6 36h14L14 62 40 26H24z"/>
+  <path d="M48 32 30 60h36z M48 38l12 18H36z"/>
+  <rect x="47" y="42" width="2" height="8"/>
+  <rect x="47" y="52" width="2" height="2"/>
+ </g>
+</svg>

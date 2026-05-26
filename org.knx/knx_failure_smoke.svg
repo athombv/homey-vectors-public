@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <title>knx_failure_smoke</title>
+ <g fill="#000" fill-rule="nonzero">
+  <path d="M28 4a22 22 0 1 0 4.5 43.534 11 11 0 0 1-.5-3.284A18 18 0 1 1 46 28.34a11 11 0 0 1 3.34 1.412A22 22 0 0 0 28 4z"/>
+  <rect x="12" y="26" width="6" height="4" rx="1"/>
+  <rect x="22" y="26" width="6" height="4" rx="1"/>
+  <rect x="32" y="26" width="6" height="4" rx="1"/>
+  <path d="M44 32 26 60h36z M44 38l12 18H32z" fill-rule="evenodd"/>
+  <rect x="43" y="42" width="2" height="8"/>
+  <rect x="43" y="52" width="2" height="2"/>
+ </g>
+</svg>
