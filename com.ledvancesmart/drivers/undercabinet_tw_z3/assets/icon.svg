@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="165px" height="488px" viewBox="0 0 165 488" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 11</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-166.000000, -4.000000)">
+            <g id="编组-11" transform="translate(166.000000, 4.000000)">
+                <rect id="矩形" stroke="#010101" stroke-width="5" transform="translate(82.551700, 244.000000) rotate(-15.000000) translate(-82.551700, -244.000000) " x="66.5517" y="-0.5" width="32" height="489"></rect>
+                <rect id="矩形" fill="#010101" transform="translate(21.000000, 14.352351) rotate(-15.000000) translate(-21.000000, -14.352351) " x="6" y="8.35235062" width="30" height="12"></rect>
+                <rect id="矩形备份-2" fill="#010101" transform="translate(143.136885, 472.647048) rotate(-15.000000) translate(-143.136885, -472.647048) " x="128.136885" y="466.647048" width="30" height="12"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

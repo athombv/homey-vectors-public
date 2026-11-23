@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000px" height="1000px" viewBox="0 0 1000 1000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_switch</title>
+    <g id="icon_switch" stroke="none" fill="none" fill-rule="evenodd" stroke-width="1">
+        <g id="编组" transform="translate(66.6667, 66.6667)">
+            <rect id="矩形" stroke="#000000" stroke-width="46.6666667" x="23.3333333" y="23.3333333" width="820" height="820" rx="16.666666"></rect>
+            <rect id="矩形" stroke="#000000" stroke-width="20" x="164.424242" y="164.424242" width="537.818182" height="537.818182" rx="16.666666"></rect>
+            <circle id="椭圆形备份" fill="#000000" cx="433.333333" cy="621.666667" r="8.33333333"></circle>
+        </g>
+    </g>
+</svg>

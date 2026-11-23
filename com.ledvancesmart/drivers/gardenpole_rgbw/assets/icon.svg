@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="102px" height="491px" viewBox="0 0 102 491" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-197.000000, -3.000000)">
+            <g id="icon" transform="translate(197.000000, 3.000000)">
+                <path d="M85.5,2.5 L17.5,2.5 L17.5,139.481567 L21.7941176,139.481567 L21.7941176,471.5 L81.2058824,471.5 L81.2058824,139.481567 L85.5,139.481567 L85.5,2.5 Z" id="路径" stroke="#010101" stroke-width="5"></path>
+                <g id="编组-12" transform="translate(0.000000, 467.000000)" fill="#131313">
+                    <ellipse id="椭圆形" cx="51" cy="8.5" rx="51" ry="8.5"></ellipse>
+                    <ellipse id="椭圆形备份" cx="51" cy="15.5" rx="51" ry="8.5"></ellipse>
+                    <rect id="矩形" x="0" y="8" width="102" height="7"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
